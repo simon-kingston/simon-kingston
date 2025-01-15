@@ -1,4 +1,11 @@
-## Hi there 👋
+
+Topic | Tool / Skill
+:---|:---
+Languages | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-E78739?style=flat&logo=OpenJDK&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+Python | ![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Dask Badge](https://img.shields.io/badge/-Dask-c94832?style=flat&logo=python&logoColor=white)
+Machine Learning Techniques | ![Segmentation Badge](https://img.shields.io/badge/-Segmentation-CFE0EA?style=flat&logo=pytorch&logoColor=white) ![Classification Badge](https://img.shields.io/badge/-Classification-01949A?style=flat&logo=pytorch&logoColor=white) ![Localisation Badge](https://img.shields.io/badge/-Localisation-DB1F48?style=flat&logo=pytorch&logoColor=white) ![LinearRegression Badge](https://img.shields.io/badge/-LinearRegression-016367?style=flat&logo=scikitlearn&logoColor=white)
+Machine Learning Tools |  ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Keras Badge](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![SKLearn Badge](https://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+Imaging / GeoSpatial | ![Shapely Badge](https://img.shields.io/badge/-Shapely-FBF608?style=flat&logo=python&logoColor=white) ![GeoPandas Badge](https://img.shields.io/badge/-GeoPandas-009c5d?style=flat&logo=pandas&logoColor=white) ![Leaflet Badge](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white) ![OpenCV Badge](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![SKImage Badge](https://img.shields.io/badge/-SKImage-92c756?style=flat&logo=scikitlearn&logoColor=white)
 
 <!--
 **simon-kingston/simon-kingston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
